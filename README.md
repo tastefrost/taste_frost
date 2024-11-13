@@ -5,3 +5,4 @@ test
 any taste
 nice
 go go
+LFG
