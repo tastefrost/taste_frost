@@ -8,3 +8,4 @@ go go
 LFG
 nice job
 LFG
+bullish
