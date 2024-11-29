@@ -18,3 +18,4 @@ gogo
 start
 and
 bull
+buy
