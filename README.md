@@ -19,3 +19,4 @@ start
 and
 bull
 buy
+bullish
