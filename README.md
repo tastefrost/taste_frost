@@ -20,3 +20,4 @@ and
 bull
 buy
 bullish
+any time
