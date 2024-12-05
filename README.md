@@ -23,3 +23,4 @@ bullish
 any time
 buy
 test
+LFG
