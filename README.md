@@ -31,3 +31,4 @@ gooo
 buy
 yes
 nice
+LFG
