@@ -34,3 +34,4 @@ nice
 LFG
 Yes
 no
+bullish
