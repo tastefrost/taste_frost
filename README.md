@@ -39,3 +39,4 @@ nice job
 test
 LFG
 yes
+ok
