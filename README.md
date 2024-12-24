@@ -40,3 +40,4 @@ test
 LFG
 yes
 ok
+LFG
