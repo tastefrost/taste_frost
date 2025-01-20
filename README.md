@@ -61,3 +61,4 @@ Nice
 buy
 no
 ok
+yes
