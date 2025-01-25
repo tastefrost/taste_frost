@@ -66,3 +66,4 @@ yes
 ok
 nice
 any
+stay
