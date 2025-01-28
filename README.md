@@ -69,3 +69,4 @@ any
 stay
 ok
 not
+yes
