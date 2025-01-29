@@ -70,3 +70,4 @@ stay
 ok
 not
 yes
+nice
