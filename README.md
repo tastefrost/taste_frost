@@ -71,3 +71,4 @@ ok
 not
 yes
 nice
+bullish
