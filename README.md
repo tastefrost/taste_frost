@@ -73,3 +73,4 @@ yes
 nice
 bullish
 ok
+new
