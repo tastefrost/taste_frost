@@ -81,3 +81,4 @@ No
 test
 ok
 nice
+LFG
