@@ -82,3 +82,4 @@ test
 ok
 nice
 LFG
+NO
