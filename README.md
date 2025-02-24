@@ -92,3 +92,4 @@ good
 test
 my too
 any
+coin
