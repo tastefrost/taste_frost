@@ -95,3 +95,4 @@ any
 coin
 ok
 good
+nice
