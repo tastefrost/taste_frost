@@ -96,3 +96,4 @@ coin
 ok
 good
 nice
+yes
