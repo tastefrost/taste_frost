@@ -99,3 +99,4 @@ nice
 yes
 new
 stay
+all
