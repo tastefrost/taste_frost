@@ -100,3 +100,4 @@ yes
 new
 stay
 all
+Gooo
